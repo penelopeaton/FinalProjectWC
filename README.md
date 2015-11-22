@@ -5,7 +5,10 @@
 ## Description: 
 This map illustrates the amount of expenditures and total population of Veteran's in the U.S. With a close look at
 ## Project Procedure: 
-describe your data processing, visualization selection, and analyses post-visualization
+* Describe your data processing
+* Visualization selection 
+* Analysis post-visualization
+
 ## Data Processing: 
 The data set came from the [Veterans Affairs](http://www1.va.gov/vetdata/Expenditures.asp) website under the Expenditure tab. It is a 2014 data set that includes, by state, all the categories for expenditure totals. Before I opened the data, I read the "Description of the Data" section on the website that tells you what is included and that the Veteran population counts are estimates. I also pulled up the "Trends in the Geographic Distribution of VA Expenditures: FY2000 to FY2009," which included essentially, a lot of the same elects as the data sets that I'm working with have. It discusses how "each fiscal year the Department of Veteran Affair's (VA's) office of Policy and Planning publishes an annual geographic distribution of VA Expenditures (GDX) reports for the public and stakeholders." The report illustrates the estimated dollar expenditures for major VA programs at the state, county and Congressional District Level. This data set helped me understand the one that I used to create the interactive. I was able to see the break down and overall trends over a 9 year span. Then I looked at my set to start the parsing and filtering process. 
 
