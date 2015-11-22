@@ -1,7 +1,8 @@
 # FinalProjectWC
 ![Cartodb](http://i.imgur.com/m83erfi.jpg)
 * [Cartodb](https://penelopeeaton.cartodb.com/viz/2343d818-916c-11e5-88ba-0e3ff518bd15/map).
-* # Where Does The Money Go?
+
+# Where Does The Money Go?
 ## Description: 
 This map illustrates the amount of expenditures and total population of Veteran's in the U.S. With a close look at
 ## Project Procedure: 
