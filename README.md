@@ -66,4 +66,4 @@ After visualization it I know am completely aware of the most populated Veteran 
 * Visualization: [Cartodb](http://bit.ly/1MLv5x9)
 * Data Sets: [U.S. Department of Veteran Affairs](http://www1.va.gov/vetdata/Expenditures.asp)
 * Color Scheming: [ColorBrewer2](http://www.colorbrewer2.org)
-
+* Article: [U.S. Department of Veteran Affairs](http://www.research.va.gov/currents/0915-2.cfm)
