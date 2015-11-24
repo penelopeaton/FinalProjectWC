@@ -1,4 +1,4 @@
-# FinalProjectWC: Where Does The VA Money Go? 
+# FinalProjectWC: The True Co$t of War
 ![Cartodb](http://i.imgur.com/EoGaOds.jpg)
 * [Cartodb](http://bit.ly/1MLv5x9).
 
