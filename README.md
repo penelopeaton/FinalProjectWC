@@ -1,6 +1,7 @@
 # FinalProjectWC: The True Co$t of War
 ![Cartodb](http://i.imgur.com/EoGaOds.jpg)
 * [Cartodb—Demo Link](http://bit.ly/1MLv5x9).
+* [Hosted on Github](http://penelopeaton.github.io/FinalProjectWC/)
 
 ## Description: 
 This map illustrates the amount of expenditures and total population of Veteran's in the U.S., and Government Veteran Expenditure per capita.
