@@ -63,7 +63,7 @@ I created the map through [Cartodb](http://bit.ly/1MLv5x9) and made it choroplet
 After visualization it I know am completely aware of the most populated Veteran states with the highest expenditures for those Veterans. To conclude my project, I ended up making my own dataset of state populations to figure out how many Veterans there are based on a states population, whether places like Texas and California have more Veterans solely based on their high population, or whether smaller states like Oklahoma, for example, have a Veteran population that is the majority of their sole population or whether it's not at all. I came up with this after looking at my final dataset. I was wondering whether the expenditures and Veteran populations coincide with each other or whether they are purely independent factors. I found that of course they are dependent on each other especially in cases like California and Texas, but I wanted to know whether that was solely because of their high population or something else.
 
 ## Sources:
-Visualization [Cartodb](http://bit.ly/1MLv5x9)
-Data Sets [U.S. Department of Veteran Affairs](http://www1.va.gov/vetdata/Expenditures.asp)
-Color Scheming [ColorBrewer2](http://www.colorbrewer2.org)
+* Visualization: [Cartodb](http://bit.ly/1MLv5x9)
+* Data Sets: [U.S. Department of Veteran Affairs](http://www1.va.gov/vetdata/Expenditures.asp)
+* Color Scheming: [ColorBrewer2](http://www.colorbrewer2.org)
 
