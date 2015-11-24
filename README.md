@@ -20,41 +20,42 @@ I created the map through [Cartodb](http://bit.ly/1MLv5x9) and made it choroplet
 Step one: picking the data set from the website and saving an extra copy to ensure that I have a extra one if I mess anything up. 
 ### Step-by-Step Data Parsing: 
 
-#### Step one: 
+#### Step 1: 
 picking the data set from the website and saving an extra copy to ensure that I have a extra one if I mess anything up. 
 
-#### Step two: 
+#### Step 2: 
 Read the data dictionary located on the website to ensure that I understood what all the categories meant. Also the data set included notes, so before I deleted them I made sure to read them and leave them included in the extra copy. 
 
-#### Step three: 
+#### Step 3: 
 Because I wasn’t using a lot of the variables (columns) I needed to do a special paste in order to make sure that the numbers weren’t skewed once I deleted a column. (Copied the data set, went to edit, clicked on paste special, and clicked “values” which essentially kept all the numbers the same but detached them from their equations.)
 
-#### Step four: 
+#### Step 4: 
 I deleted all the rows that I didn’t need to use (including the notes, the title head “FY14 Summary of Expenditures by State Expenditures in $000s) so that I could filter my rows if I needed. I also deleted the total on the top, and left the total on the bottom. I also deleted these categories: Compensation & Pension, Construction, Education & Vocational Rehabilitation, Loan Guaranty, General Operating Expenses and Insurance & Indemnities. I kept State, Veteran Population, Total Expenditure, medical care and unique patients because these are the variables I want to analyze. 
 
-#### Step five: I than looked for a data set that had 2014 population estimates by state so that I could analyze the population of veterans in each state based on their average state population. I added the population estimates to the excel sheet and fixed up the header to look the same as the others.
+#### Step 5: 
+I than looked for a data set that had 2014 population estimates by state so that I could analyze the population of veterans in each state based on their average state population. I added the population estimates to the excel sheet and fixed up the header to look the same as the others.
 
-#### Step six: 
+#### Step 6: 
 I than calculated the percentage of Veterans in each state based on each state's population (ie. Veteran Population/State Population). Once I got the numbers I clicked “Percentage” in order to make them all percentages.
 
-#### Step seven: 
+#### Step 7: 
 I calculated the total of expenditures per veteran (ie. Expenditure Total/Veteran Population)
 
-#### Step eight: 
+#### Step 8: 
 Than I calculated the total medical care cost per unique patient to find out how much each unique patient would get roughly (obviously these are dependent on the severity of medical services) (equation: Medical Care/Unique Patients)
 
-#### Step nine: 
+#### Step 9: 
 In order to visualize my data set I ended up making separate excel docs that included only the population numbers (ie. State, State Population & Veteran Population), I also did this for Expenditures (State & Expenditure) 
 
-#### Step ten: 
+#### Step 10: 
 I than used the excel resources and created line graphs and bar graphs to showcase my work, as well I created a map on Cartodb that illustrates the population and expenditure per state. 
 
 ### Step-by-Step Analysis Post-visualization: 
 
-#### Step eleven: 
+#### Step 11: 
 I went back to my data set and wanted to make a few conclusions, so I used the filter tab (highlighted my rows and went to Data on the tab, and clicked Filter). I deleted my total as it generated to the top and clicked Ascending on the Veteran population filter (which essentially filtered the whole thing to placing the highest numbers on the top). From there I was able to conclude that California and Texas have the highest Expenditure and Veteran population rate across the board. But I noticed that they didn’t have the highest % of state population who are veterans so I than filtered that category to descending.
 
-#### Step twelve: 
+#### Step 12: 
 After filtering “% of state population who are veterans” (descending) I was able to see that Alaska, Montana and Maine have the highest % of Veteran population based on their state population. Puerto Rico has the least. From there I just continued to understand the data set by filtering when necessary. 
 
 ## Analysis Post-Visualization: 
